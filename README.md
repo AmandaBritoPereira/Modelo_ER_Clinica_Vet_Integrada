@@ -10,4 +10,15 @@ A estruta dos dados está disponível para fork, caso queira replicar o modelo n
 
 Este Projeto é parte do curso de Análise e Desenvolvimento de Sistemas (4° trimestre), do Centro Universitário Senac.
 
-Professor Orientador Gustavo Calixto (Linkedin: https://www.linkedin.com/in/gmcalixto/)
+## ✒️ Autores
+
+* *Amanda Brito* - [AmandaBritoPereira](https://github.com/AmandaBritoPereira)
+* *Daniel Franzini* - [danielt3](https://github.com/danielt3)
+* *Eduardo Luz*
+* *Igor Ximenes*
+* *Flavio Dionisio*
+* *Jeisson Alves*
+
+## Professor Orientador
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Calixto%20-007dbb?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gmcalixto/)](https://www.linkedin.com/in/gmcalixto/)
