@@ -6,7 +6,7 @@ Para isso foi criado uma Clinica veterinária que possibilita ao cliente, o aces
 
 ![alt text](https://raw.githubusercontent.com/AmandaBritoPereira/Modelo_ER_Clinica_Vet_Integrada/main/Diagrama%20ER%20L%C3%B3gico.png)
 
-A estruta dos dados está disponível para fork, caso queira replicar o modelo no MySql através do Workbanch (se preferir, poderá utilizar diretamente via SQL).
+A estruta dos dados está disponível para fork, caso queira [replicar o modelo](https://github.com/AmandaBritoPereira/Modelo_ER_Clinica_Vet_Integrada/blob/main/Modelo%20ER.%20Diagrama%20Workbench.mwb) no MySql utilizando o Workbanch (ou se preferir, poderá utilizar o [schema SQL](https://github.com/AmandaBritoPereira/Modelo_ER_Clinica_Vet_Integrada/blob/main/Modelo%20ER.%20Codigo%20Schema%20MySQL.sql), criando o banco de dados vazio).
 
 Este Projeto é parte do curso de Análise e Desenvolvimento de Sistemas (4° trimestre), do Centro Universitário Senac.
 
@@ -14,10 +14,7 @@ Este Projeto é parte do curso de Análise e Desenvolvimento de Sistemas (4° tr
 
 * *Amanda Brito* - [AmandaBritoPereira](https://github.com/AmandaBritoPereira)
 * *Daniel Franzini* - [danielt3](https://github.com/danielt3)
-* *Eduardo Luz*
-* *Igor Ximenes*
-* *Flavio Dionisio*
-* *Jeisson Alves*
+* *Flavio Dionisio* - [DionisioFlavio](https://github.com/DionisioFlavio)
 
 ## Professor Orientador
 
